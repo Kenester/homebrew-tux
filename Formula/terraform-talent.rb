@@ -2,7 +2,7 @@ class TerraformTalent < Formula
     desc "Tool to build, change, and version infrastructure"
     homepage "https://www.terraform.io/"
     url "https://github.com/hashicorp/terraform/archive/v0.14.10.tar.gz"
-    sha256 "7395800a4523d4a1483f96d71636c2710a7e9de19c37cc0f03fdb51414a63cf0"
+    sha256 "509f182f2e4d100ce99660ed6be0710b4f8e7926c83cef87852e13b3b34e7f23"
     license "MPL-2.0"
 
     bottle do
